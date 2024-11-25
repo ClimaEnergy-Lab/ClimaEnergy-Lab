@@ -33,5 +33,13 @@ We use APIs and public data portals to gather the following types of data:
 - **PyTorch/Scikit-learn**: For building predictive models.
 - **APIs**: For gathering real-time data (Weather API, public portals).
 
+## member
+[sj hwang](https://github.com/justinbrianhwang)
 
+[inwon choi](https://github.com/inwon-choi)
 
+[jihyun yoon](https://github.com/jihyun2284)
+
+[joonhong min](https://github.com/joonhong-min)
+
+[jaehwan Kim](https://github.com/kimjaehwankimjaehwan)
